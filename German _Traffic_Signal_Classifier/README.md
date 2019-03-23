@@ -6,7 +6,7 @@ There are several traffic signals we come across on the roads when we drive. Tha
 
 In this project we will classify 43 different categories of traffic sign images using Convolutional Neural Network (ResNet50 model). 
 
-
+![resnet](https://user-images.githubusercontent.com/40929563/54868135-85133e80-4d89-11e9-97f8-30f6ae072d87.png)
 
 
 ## This repository contains 
