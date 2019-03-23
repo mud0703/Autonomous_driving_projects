@@ -11,7 +11,7 @@ In this project we will classify 43 different categories of traffic sign images 
 
 * ipynb
 * py
-* Data
+* dataset link
 
 
 ## Results
