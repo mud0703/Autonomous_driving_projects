@@ -1,4 +1,4 @@
-# German Traffic Signal Classifier using ResNet
+# German Traffic Signal Classifier using ResNet and CNN 
 
 There are several traffic signals we come across on the roads when we drive. That's how we take the decision while driving the vehicle. Similarly, for a Self driving car it necessary to first identify the traffic sign before taking any decision. Here, we implented this using kaggle dataset.
 
