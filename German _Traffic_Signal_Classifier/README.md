@@ -19,4 +19,4 @@ In this project we will classify 43 different categories of traffic sign images 
 
 ## Results
 
-After 15 epochs I got 99.22% traning accuracy with loss of 0.025
+After 30 epochs I got 99.73% traning accuracy with loss of 0.085 and for Test data I got 98.06% accuracy
